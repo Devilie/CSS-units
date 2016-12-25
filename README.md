@@ -8,7 +8,8 @@
 <tr><td>Экран</td><td>em, rem, px, %</td><td>ex</td><td>pt, cm, mm, in, pc</td></tr>
 <tr><td>Печать</td><td>em, rem, cm, mm, in, pt, pc, %</td><td>ex, px</td><td></td></tr>
 </table>
-<p>CSS Size units<br/>
+<p>CSS Size units<br/><br/>
+Px,  em, rem и % используются в font-size, border-width, margin, padding, width, height, left, right, top, bottom<br/><br/>
 Sizing for content and space http://marksheet.io/css-size-units.html<br/>
 https://css-tricks.com/the-lengths-of-css/<br/>
 Единицы измерения: "px", "em", "rem" и другие http://learn.javascript.ru/css-units<br/>
